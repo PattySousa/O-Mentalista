@@ -1,2 +1,4 @@
-# Brain
-Desafio ImersãoDev Mentalista Alura
+#  Mentalista
+
+## Desafio Imersãodev - Mentalista da empresa Alura.
+
