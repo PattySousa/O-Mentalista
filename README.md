@@ -1,4 +1,4 @@
-#  Mentalista
+#  O-Mentalist
 
 ## Desafio Imersãodev - Mentalista da empresa Alura.
 
