@@ -6,7 +6,7 @@ O Challenge da aula 2 era criar um Mini Jogo, onde quem fosse jogar precisava es
 O número  foi gerado de forma aleatória e apesar de ser um joguinho simples, cada aprendizado  conta muito.
 Os intrutores foram  Rafaella Ballerini, Paulo Silveira e Guilherme Lima 
 
--Linguagens utilizadas HMTL5,  CSS3, JS
+=> Linguagens utilizadas (HTML5, CSS3 e Javascript).
 
 ### Se prefeir, postei um vídeo do proje no meu Linkedlin 
 
